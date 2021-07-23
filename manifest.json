@@ -9,7 +9,7 @@
     "content_scripts": [
         {
             "matches": [
-                "*://*.todayonline.com/singapore/*"
+                "https://www.todayonline.com/singapore/*"
             ],
             "js": [
                 "main.js"
