@@ -4,7 +4,7 @@
     "version": "1.0",
     "description": "TODO",
     "icons": {
-        "48": "icons/border-48.png"
+        "48": "icons/finger-48.png"
     },
     "content_scripts": [
         {
