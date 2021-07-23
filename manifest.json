@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Fuck TODAY",
+    "version": "1.0",
+    "description": "TODO",
+    "icons": {
+        "48": "icons/border-48.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.todayonline.com/singapore/*"
+            ],
+            "js": [
+                "main.js"
+            ]
+        }
+    ]
+}
