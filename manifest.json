@@ -15,5 +15,9 @@
                 "main.js"
             ]
         }
+    ],
+    "permissions": [
+        "clipboardRead",
+        "clipboardWrite"
     ]
 }
